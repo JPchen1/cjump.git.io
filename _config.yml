@@ -4,7 +4,7 @@ title_separator          : "-"
 name                     : "Junpeng Chen"
 description              : &description "A clean academic homepage template."
 url                      : "https://jpchen1.github.io"
-baseurl                  : "/cjump.git.io"
+baseurl                  : "/Cjump.git.io"
 repository               : "JPchen1/cjump.git.io"
 
 author:
