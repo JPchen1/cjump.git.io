@@ -3,9 +3,9 @@ title                    : "My Homepage"
 title_separator          : "-"
 name                     : "Junpeng Chen"
 description              : &description "A clean academic homepage template."
-url                      : ""
-baseurl                  : ""
-repository               : ""
+url                      : "https://jpchen1.github.io"
+baseurl                  : "/cjump.git.io"
+repository               : "JPchen1/cjump.git.io"
 
 author:
   avatar           : "1.png"
@@ -222,6 +222,8 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed
+  load_paths:
+    - _sass
 
 permalink: /:categories/:title/
 timezone: UTC
