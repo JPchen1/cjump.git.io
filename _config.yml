@@ -1,7 +1,7 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "My Homepage"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Junpeng Chen"
 description              : &description "A clean academic homepage template."
 url                      : ""
 baseurl                  : ""
@@ -9,18 +9,20 @@ repository               : ""
 
 author:
   avatar           : "1.png"
-  name             : "Your Name"
+  name             : "Junpeng Chen"
   pronouns         :
   bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  location         : "Putian, Fujian, China"
+  employer         : "Fujian University of Technology"
   uri              :
-  email            : "name@example.com"
+  email            : "junpeng_chen2000@163.com"
+  email_url        : "https://mail.163.com/"
 
   arxiv            :
   googlescholar    :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0006-9651-1930"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=60225945900"
   semantic         :
   pubmed           :
   researchgate     :
@@ -28,7 +30,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : 
   kaggle           :
   stackoverflow    :
 
